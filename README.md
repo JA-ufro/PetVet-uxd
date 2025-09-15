@@ -54,3 +54,37 @@ AAA AAA - Designer
 AAA AAA - Designer
 
 AAA AAAA - Presenter
+
+---
+## 3. Strategy
+
+### 3.1. Value Proposition Canvas
+How we aligned pet owners’ needs with our solution
+
+**Dual approach:**
+
+- **For Pet Owners:**  
+  Smart search and booking system, reminders for vaccinations, medical history tracking, and quick access to emergency care.  
+
+- **For Veterinary Clinics:**  
+  Management panel for appointments, patient history (with consent), promotional tools, and complete professional profiles with verified credentials.  
+
+**Identified gaps:**
+
+- **Social:**  
+  Lack of trust in service quality due to scattered and unreliable information sources.  
+
+- **Emotional:**  
+  Stress during emergencies, uncertainty when choosing clinics, and frustration with forgotten medical tasks.  
+
+- **Technical:**  
+  Absence of an integrated, user-friendly platform that centralizes clinic information, offers real-time bookings, and automates reminders.  
+<img width="1795" height="1292" alt="Template Value Proposition Canvas" src="https://github.com/user-attachments/assets/b78d4adc-4fa2-4868-bab6-890579547e6c" />
+
+---
+
+### 3.2. UX Person
+
+---
+
+### 3.3. Benchmarking
