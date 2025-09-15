@@ -44,3 +44,13 @@ The lack of a centralized, user-friendly platform reveals both a gap in accessib
 - Direct chat with veterinary staff for quick consultations  
 
 ---
+## 2. Team & Roles
+AAAAA AAAA - Project Manager
+
+AAAA AAAA- Analyst
+
+AAA AAA - Designer
+
+AAA AAA - Designer
+
+AAA AAAA - Presenter
