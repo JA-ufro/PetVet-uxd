@@ -12,6 +12,7 @@ User Experience Design for PetVet: An Integrated Platform Connecting Pet Owners 
     
 4.  [**Scope**](#4-scope)
     * [4.1. Customer Journey Map](#41-customer-journey-map)
+       * [4.1.1 Decision Stage Interfaces](#411-decision-stage-interfaces)
 5.  [**Structure**](#5-structure)
    * [5.1. Navigation Flow](#51-navigation-flow)
 6.  [**Skeleton**](#6-skeleton)
@@ -133,13 +134,37 @@ The goal was to identify the strengths and weaknesses of current solutions, both
 <img width="752" height="557" alt="Benchmark" src="https://github.com/user-attachments/assets/7678096a-ff3c-4cd0-9d44-e270abeb2ac3" />
 
 ---
+
 ## 4. Scope
 
 ### 4.1. Customer Journey Map
+The PetVet Customer Journey Map identifies the following key stages in the user's interaction with the platform:
+
+- **Awareness:** Users discover the app through social media or word-of-mouth. The goal is to find a fast and convenient way to reserve vet appointments.
+
+- **Consideration:** Users compare PetVet with other alternatives to find the best solution to their problem.
+
+- **Decision:** Users decide to stick with PetVet and start booking veterinary appointments.
+
+- **Retention & Advocacy:** Users start saving their pets' information and recommend the app to friends and family.
 
 #### 4.1.1 Decision Stage Interfaces
+In the Decision stage, the user has already chosen to use PetVet and focuses on the platform's core action: finding and booking an appointment. The primary focus is on the Veterinary Search feature to initiate the booking flow.
+
+#### Customer Activities
+The user employs the Veterinary Search (in list or map format) and applies smart filters (by location, rating, price, specialization, or 24-hour availability) to narrow down their options. Once a clinic is identified, they proceed to the three-step booking flow: 'Select Veterinary' → 'Select Hour' → 'Select Pet'.
+
+#### Customer Goals
+The customer's main goal is to book a veterinary appointment quickly, transparently, and reliably, eliminating the uncertainty caused by scattered information sources, that's why the map is designed to show the veterinary clinics closest to the client (also with filters for different circumstances).
+
+
+
+#### Touchpoints
+The key interface is the Veterinary Search (List View), as it allows for direct comparison of the available options, facilitating the final decision15. Filters applied over the Interactive Map are also essential for decision-making based on geolocation and real-time availability.
+
 
 ---
+
 
 ## 5. Structure
 
