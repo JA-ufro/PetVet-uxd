@@ -222,13 +222,19 @@ A heuristic evaluation was conducted on the high-fidelity PetVet prototype to id
 | :--- | :--- |
 | The initial 'Confirmar hora' screen had a confusing and redundant information hierarchy. It incorrectly used the same title ("Información de la mascota") for two different sections (the pet and the clinic). The layout was a text-heavy list, making it difficult for the user to scan and verify the appointment details quickly. | The screen was completely redesigned to create a more "ordered and logical" flow. The layout was simplified into two distinct, scannable cards: one for the Pet & Service details, and one for the Clinic. This "drastic change" clarified the information hierarchy, making it intuitive, and clear action buttons were added to complete the flow. |
 
+<img width="741" height="719" alt="heuristic-evaluation-confirm-screen" src="https://github.com/user-attachments/assets/416b64b6-f13f-4601-97a6-189cbed416c5" />
 
-Additional heuristic-based improvements:
+Additional improvements based on heuristics:
 
--The order of filters on the main map and in the veterinary search has been improved.
+- The order of filters on the main map and in the veterinary search has been improved.
 
--Better color on the buttons.
+- Better color on buttons.
 
+- Change from slider to buttons for greater clarity.
+
+- Vaccination history added to pet profile.
+
+- Pet selection view improved.
 
 
 ### 7.3. High Definition Interfaces
@@ -253,4 +259,7 @@ Below are the resources linked to the final high-fidelity interface designs:
 📁 [Hi-Fi Prototype – PetVet (Figma)]
 
 📄 [Hi-Fi Interfaces – PetVet (PDF)]
+
+<img width="988" height="718" alt="high-fidelity-account-home-map" src="https://github.com/user-attachments/assets/f9b23778-67de-42c2-b1a0-8be2cc5808be" />
+
 
