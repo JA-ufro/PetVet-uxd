@@ -154,14 +154,17 @@ In the Decision stage, the user has already chosen to use PetVet and focuses on 
 #### Customer Activities
 The user employs the Veterinary Search (in list or map format) and applies smart filters (by location, rating, price, specialization, or 24-hour availability) to narrow down their options. Once a clinic is identified, they proceed to the three-step booking flow: 'Select Veterinary' → 'Select Hour' → 'Select Pet'.
 
+![three-step booking flow.png](assets%2Fthree-step%20booking%20flow.png)
+
 #### Customer Goals
 The customer's main goal is to book a veterinary appointment quickly, transparently, and reliably, eliminating the uncertainty caused by scattered information sources, that's why the map is designed to show the veterinary clinics closest to the client (also with filters for different circumstances).
 
-
+![vet map.png](assets%2Fvet%20map.png)
 
 #### Touchpoints
 The key interface is the Veterinary Search (List View), as it allows for direct comparison of the available options, facilitating the final decision15. Filters applied over the Interactive Map are also essential for decision-making based on geolocation and real-time availability.
 
+![vet list.png](assets%2Fvet%20list.png)
 
 ---
 
