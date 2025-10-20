@@ -183,14 +183,78 @@ As the design evolved based on initial feedback, the "direct chat" feature was s
 ---
 
 ## 7. Surface
-
 ### 7.1. Interface Evolution
+Our design process focused on turning low-fidelity sketches into a clean, professional, and reliable high-definition interface. As a key design decision, we deliberately avoided a pure white background (#ffffff), as it can be visually aggressive or invasive. Instead, we opted for a soft off-white (#FAFAFA) to create a sense of order, comfort, and professionalism.
 
----
+This background was combined with a palette of greens. From our team's perspective, green was chosen because we believe it provides a sense of health and is intuitively associated with veterinary care.
+
+A key decision made during our “Structure” phase was the “Login first” approach. This is essential because PetVet is a profile-centric application. Users need immediate access to their pets' stored data and medical history in order to enjoy a “fast and convenient” service.
+
+
+Appointment Booking Flow Evolution
+
+This was one of the most significant usability improvements. The initial wireframe showed a traditional full-month calendar, which forced users to hunt for a day and then see available times. This cluttered the view and didn't clearly show which times were free.
+
+To streamline this, the design was changed to focus on one day at a time. The final mockup features a horizontal day-selector and a large, clear grid of available time slots. This change drastically reduces cognitive load and booking time, as it shows specific available times much more clearly.
+
+[Colocar aca la foto del wireframe] -> [Colocar la foto del mockup]
+
+
+
+User account evolution
+
+The user account screen was redesigned to be more efficient and visually organized. The layout was a simple list, which was functional but wasted space.
+
+In the high-fidelity version, the user's contact information (email, phone number) was moved directly below their name, and the edit profile option was moved to the right. This improved the visual hierarchy and saved vertical space. The space saved was used to add a new key feature: “Most recent visit,” which provides immediate value by showing the user their last appointment and, below it, another button to view the user's other appointments. Finally, the simple “Log out” text was replaced with a large, colored button, making the action more deliberate and visually consistent.
+
+[Colocar aca la foto del wireframe] -> [Colocar la foto del mockup]
+
+Confirmation screen evolution
+
+Finally, the confirmation screen format was completely redesigned to make it clearer. The previous design had a lot of text and boxes, which made it difficult to read and did not make the hierarchy clear.
+
+The new design uses a clean and orderly structure. It clearly separates the pet's profile (with a photo) from the pet's personal data and then, in a more compact format, the clinic's data. The buttons have also been significantly improved, using clear, action-oriented colors to guide the user and make the final action intuitive and error-free.
+
+[Colocar aca la foto del wireframe] -> [Colocar la foto del mockup]
+
+
 
 ### 7.2. Results of the Heuristic Evaluation
+A heuristic evaluation was conducted on the high-fidelity PetVet prototype to identify key usability issues before the final design. The evaluation, performed by our design team, focused on critical user flows such as appointment booking. While several minor adjustments were made, the evaluation identified one major usability flaw in the 'Confirm Appointment' screen, which was prioritized and completely redesigned.
 
----
+| Problem | Solution |
+| :--- | :--- |
+| The initial 'Confirmar hora' screen had a confusing and redundant information hierarchy. It incorrectly used the same title ("Información de la mascota") for two different sections (the pet and the clinic). The layout was a text-heavy list, making it difficult for the user to scan and verify the appointment details quickly. | The screen was completely redesigned to create a more "ordered and logical" flow. The layout was simplified into two distinct, scannable cards: one for the Pet & Service details, and one for the Clinic. This "drastic change" clarified the information hierarchy, making it intuitive, and clear action buttons were added to complete the flow. |
+
+
+Additional heuristic-based improvements:
+
+-The order of filters on the main map and in the veterinary search has been improved.
+
+-Better color on the buttons.
+
+
 
 ### 7.3. High Definition Interfaces
+After several iterations and critical improvements guided by our heuristic evaluation, below are the final high-fidelity interfaces for PetVet. These interfaces have been designed to be clean, intuitive, and reliable, directly responding to the user needs identified in our “Strategy” phase.
+
+But now the key question is:
+
+Does this final prototype really help pet owners manage their animals' health?
+
+Reviewing our UX personas, we can now conclude the following:
+
+👥🔹 Laura Gomez (the busy professional), who feared “forgetting everything,” can now use the app to receive automatic reminders for vaccinations and appointments and easily view her pet's medical history.
+
+👥🔹 Andrés Torres (the first-time owner), who needed an “easy-to-use” app, now has a simple, guided booking process, clear comparisons between clinics, and a professional interface that gives him confidence.
+
+👥🔹 Carmen Rodríguez (the multi-pet caregiver), who needed help “staying organized,” can now use the “Account” screen to manage all her animals from one place, each with its own profile and history.
+
+Below are the resources linked to the final high-fidelity interface designs:
+
+📁 [Hi-Fi Interfaces Workspace – PetVet (Figma)]
+
+📁 [Hi-Fi Prototype – PetVet (Figma)]
+
+📄 [Hi-Fi Interfaces – PetVet (PDF)]
 
