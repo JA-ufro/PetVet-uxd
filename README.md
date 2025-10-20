@@ -10,15 +10,16 @@ User Experience Design for PetVet: An Integrated Platform Connecting Pet Owners 
     * [3.2. UX Person](#32-ux-person)
     * [3.3. Benchmarking](#33-benchmarking)
     
-~~4.  [**Scope**](#4-scope)~~
-    ~~* [4.1. Customer Journey Map](#41-customer-journey-map)~~
-~~5.  [**Structure**](#5-structure)~~
-    ~~* [5.1. Navigation Flow](#51-navigation-flow)~~
-~~6.  [**Skeleton**](#6-skeleton)~~
-    ~~* [6.1. Low-Fi Wireframes](#61-low-fi-wireframes)~~
-~~7.  [**Surface**](#7-surface)~~
-    ~~* [7.1. Interface Evolution](#71-interface-evolution)~~
-    ~~* [7.2. High Definition Interfaces](#72-high-definition-interfaces)~~
+4.  [**Scope**](#4-scope)
+    * [4.1. Customer Journey Map](#41-customer-journey-map)
+5.  [**Structure**](#5-structure)
+   * [5.1. Navigation Flow](#51-navigation-flow)
+6.  [**Skeleton**](#6-skeleton)
+   * [6.1. Low-Fi Wireframes](#61-low-fi-wireframes)
+7.  [**Surface**](#7-surface)
+   * [7.1. Interface Evolution](#71-interface-evolution)
+   * [7.2. Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)
+   * [7.3. High Definition Interfaces](#73-high-definition-interfaces)
 
 ---
 ## 1. Introduction
@@ -65,15 +66,15 @@ The lack of a centralized, user-friendly platform reveals both a gap in accessib
 
 ---
 ## 2. Team & Roles
-AAAAA AAAA - Project Manager
+Orlando Caullan - Project Manager 
 
-AAAA AAAA- Analyst
+Joaquín Aravena - Analyst
 
-AAA AAA - Designer
+Martín Zuñiga - Designer
 
-AAA AAA - Designer
+Julio Contreras - Designer
 
-AAA AAAA - Presenter
+Nicolas Toledo - Presenter
 
 ---
 ## 3. Strategy
@@ -132,4 +133,63 @@ The goal was to identify the strengths and weaknesses of current solutions, both
 <img width="752" height="557" alt="Benchmark" src="https://github.com/user-attachments/assets/7678096a-ff3c-4cd0-9d44-e270abeb2ac3" />
 
 ---
+## 4. Scope
+
+### 4.1. Customer Journey Map
+
+#### 4.1.1 Decision Stage Interfaces
+
+---
+
+## 5. Structure
+
+### 5.1. Navigation Flow
+The PetVet navigation flowchart outlines a task-oriented and clear structure designed to streamline the process of finding and booking veterinary care. After logging in, the app is built around three main sections:
+
+- **Dual Veterinary Search:** Users can find clinics through an interactive `Map` or a filterable `List of veterinary clinics`.
+- **Streamlined Booking Process:** Both search paths converge on a simple, step-by-step flow: `Select Veterinary` -> `Select Hour` -> `Select Pet`.
+- **Pet & User Management:** A dedicated `Profiles` section allows users to modify their account, add new pets, and manage existing pet information.
+
+The structure requires users to `Login` before accessing the main functionalities. This decision allows for a personalized experience from the start, such as having pet information readily available when booking.
+
+---
+
+## 6. Skeleton
+### 6.1. Low-Fi Wireframes
+These wireframes establish the architectural blueprint for the PetVet platform, focusing on the system's core functionalities as defined in our solution. The navigation is designed around a persistent bottom tab bar, ensuring that users can effortlessly switch between the main sections: searching for clinics, managing appointments, and viewing their pets' profiles.
+
+In our initial design phase, the interfaces were structured around three key user journeys, derived directly from the primary needs of our UX Personas:
+
+Veterinary Discovery and Comparison: Includes all screens dedicated to searching for clinics, applying filters (by location, ratings, etc.), comparing service options, and viewing detailed veterinary profiles.
+
+
+Appointment Booking Flow: Encompasses the entire process from selecting a time slot on a clinic's schedule to confirming the appointment and receiving automated reminders.
+
+
+Pet Health Management: Contains the interfaces for creating and managing individual pet profiles, tracking their medical history, and receiving notifications for upcoming vaccinations.
+
+
+📁 Wireframes Workspace – PetVet (Figma)
+
+All complete views of the initial low-fidelity wireframes for the project, as these may change in the future, are attached in Figma and include the conceptual designs covering the first stage of the PetVet project.
+
+📄 Low-Fi Wireframes – PetVet (PDF)
+
+A comprehensive PDF document containing the complete set of initial wireframes with great detail for each view for quick comprehension and to avoid ambiguity, showing the main screens and user interactions defined during the initial design phase.
+
+As the design evolved based on initial feedback, the "direct chat" feature was strategically deprioritized to concentrate on perfecting the core user experience. The focus shifted to strengthening the search and comparison tools and ensuring the appointment booking process was as seamless and intuitive as possible, directly addressing the main pain points identified in our research.
+
+---
+
+## 7. Surface
+
+### 7.1. Interface Evolution
+
+---
+
+### 7.2. Results of the Heuristic Evaluation
+
+---
+
+### 7.3. High Definition Interfaces
 
