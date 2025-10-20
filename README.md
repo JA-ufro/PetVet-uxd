@@ -151,6 +151,7 @@ The PetVet navigation flowchart outlines a task-oriented and clear structure des
 - **Pet & User Management:** A dedicated `Profiles` section allows users to modify their account, add new pets, and manage existing pet information.
 
 The structure requires users to `Login` before accessing the main functionalities. This decision allows for a personalized experience from the start, such as having pet information readily available when booking.
+<img width="1798" height="1202" alt="Untitled" src="https://github.com/user-attachments/assets/bec9ef9f-e467-4600-9bec-102e2c6a6033" />
 
 ---
 
