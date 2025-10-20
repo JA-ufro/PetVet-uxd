@@ -21,6 +21,7 @@ User Experience Design for PetVet: An Integrated Platform Connecting Pet Owners 
    * [7.1. Interface Evolution](#71-interface-evolution)
    * [7.2. Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)
    * [7.3. High Definition Interfaces](#73-high-definition-interfaces)
+8.  [**Annex**](#8-annex)
 
 ---
 ## 1. Introduction
@@ -198,11 +199,11 @@ Appointment Booking Flow: Encompasses the entire process from selecting a time s
 Pet Health Management: Contains the interfaces for creating and managing individual pet profiles, tracking their medical history, and receiving notifications for upcoming vaccinations.
 
 
-📁 Wireframes Workspace – PetVet (Figma)
+📁 [Wireframes Workspace – PetVet (Figma)](https://www.figma.com/design/mzMcZxr0kmMQ3DLNTULotQ/PetVet-Wireframe?node-id=162-830&t=Ikx69nVcJ2q3OyHm-1)
 
 All complete views of the initial low-fidelity wireframes for the project, as these may change in the future, are attached in Figma and include the conceptual designs covering the first stage of the PetVet project.
 
-📄 Low-Fi Wireframes – PetVet (PDF)
+📄 [Low-Fi Wireframes – PetVet (PDF)](https://github.com/JA-ufro/PetVet-uxd/blob/main/docs/wireframes-petvet.pdf)
 
 A comprehensive PDF document containing the complete set of initial wireframes with great detail for each view for quick comprehension and to avoid ambiguity, showing the main screens and user interactions defined during the initial design phase.
 
@@ -290,4 +291,40 @@ Below are the resources linked to the final high-fidelity interface designs:
 
 <img width="988" height="718" alt="high-fidelity-account-home-map" src="https://github.com/user-attachments/assets/f9b23778-67de-42c2-b1a0-8be2cc5808be" />
 
+---
+
+## 8. Annex
+
+This annex serves as a central repository for all project deliverables, categorized by design phase. Each link leads to a detailed document outlining the research, findings, and visual artifacts that informed the PetVet design.
+
+### 3. Strategy Documents
+
+   - 📄 [Value Proposition Canvas - PetVet](https://github.com/JA-ufro/PetVet-uxd/blob/8a50b8589161a5ee88cf1c915db0a47dab07d3d9/docs/value-proposition-canvas-petvet.pdf)
+     > A breakdown of user needs (pains/gains) and how PetVet's features provide solutions.
+    
+   - 📄 [UX Personas - PetVet](https://github.com/JA-ufro/PetVet-uxd/blob/8a50b8589161a5ee88cf1c915db0a47dab07d3d9/docs/ux-persons-petvet.pdf)
+     > In-depth profiles of our target users, detailing their motivations, goals, and frustrations.
+    
+   - 📄 [Benchmarking Analysis - PetVet](https://github.com/JA-ufro/PetVet-uxd/blob/8a50b8589161a5ee88cf1c915db0a47dab07d3d9/docs/benchmarking-petvet.pdf)
+     > A complete review of competitors and an analysis of strategic market opportunities.
+
+### 4. Scope Documents
+
+   - 📄 [Customer Journey Map - PetVet](https://github.com/JA-ufro/PetVet-uxd/blob/8a50b8589161a5ee88cf1c915db0a47dab07d3d9/docs/customer-journey-map-petvet.pdf)
+     > Visual map of the user's experience, tracking their actions, feelings, and pain points across all stages.
+
+### 5. Structure Documents
+
+   - 📄 [Navigation Flowchart - PetVet](https://github.com/JA-ufro/PetVet-uxd/blob/8a50b8589161a5ee88cf1c915db0a47dab07d3d9/docs/navigation-flowchart-petvet.pdf)
+     > The app's complete information architecture and the designed flowchart for user navigation.
+
+### 6. Skeleton Documents
+
+   - 📄 [Low-Fi Wireframes - PetVet](https://github.com/JA-ufro/PetVet-uxd/blob/8a50b8589161a5ee88cf1c915db0a47dab07d3d9/docs/wireframes-petvet.pdf)
+     > The full set of initial, low-fidelity layouts for all primary app screens.
+
+### 7. Surface Documents
+
+   - 📄 [Hi-Fi Interfaces - PetVet](https://github.com/JA-ufro/PetVet-uxd/blob/8a50b8589161a5ee88cf1c915db0a47dab07d3d9/docs/hi-fi-interfaces-petvet.pdf)
+     > The final, polished high-fidelity mockups showing the complete visual system and UI components.
 
