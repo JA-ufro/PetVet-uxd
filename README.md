@@ -116,8 +116,8 @@ Developed through interviews, these archetypes represent PetVet's key users. Eac
 👥🔹 **Carmen Rodríguez: The Multi-Pet Household Manager**
 > "With so many animals, I need an app that helps me not get tangled up."
 <img width="513" height="704" alt="UxPersona1LauraGomez" src="https://github.com/user-attachments/assets/1e3ae767-8651-428a-a906-665fd5988321" />
-<img width="528" height="728" alt="UxPersona2AndresTorres" src="https://github.com/user-attachments/assets/9e9561da-4542-4fff-8675-24d74fb7a179" />
-<img width="510" height="705" alt="UxPersona3CarmenRodriguez" src="https://github.com/user-attachments/assets/e3fc4a19-dd01-4339-9b3a-b6071037c17b" />
+<img width="513" height="704" alt="UxPersona2AndresTorres" src="https://github.com/user-attachments/assets/9e9561da-4542-4fff-8675-24d74fb7a179" />
+<img width="513" height="704" alt="UxPersona3CarmenRodriguez" src="https://github.com/user-attachments/assets/e3fc4a19-dd01-4339-9b3a-b6071037c17b" />
 
 ---
 
