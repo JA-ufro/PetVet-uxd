@@ -197,9 +197,7 @@ This was one of the most significant usability improvements. The initial wirefra
 
 To streamline this, the design was changed to focus on one day at a time. The final mockup features a horizontal day-selector and a large, clear grid of available time slots. This change drastically reduces cognitive load and booking time, as it shows specific available times much more clearly.
 
-[Colocar aca la foto del wireframe] -> [Colocar la foto del mockup]
-
-
+<img width="734" height="710" alt="ui-evolution-booking" src="https://github.com/user-attachments/assets/a4299304-e912-49a0-820d-216d015dc8f9" />
 
 User account evolution
 
@@ -207,7 +205,7 @@ The user account screen was redesigned to be more efficient and visually organiz
 
 In the high-fidelity version, the user's contact information (email, phone number) was moved directly below their name, and the edit profile option was moved to the right. This improved the visual hierarchy and saved vertical space. The space saved was used to add a new key feature: “Most recent visit,” which provides immediate value by showing the user their last appointment and, below it, another button to view the user's other appointments. Finally, the simple “Log out” text was replaced with a large, colored button, making the action more deliberate and visually consistent.
 
-[Colocar aca la foto del wireframe] -> [Colocar la foto del mockup]
+<img width="734" height="710" alt="ui-evolution-account" src="https://github.com/user-attachments/assets/05ebf54a-9344-43a6-9824-2f96bcbf0712" />
 
 Confirmation screen evolution
 
@@ -215,9 +213,7 @@ Finally, the confirmation screen format was completely redesigned to make it cle
 
 The new design uses a clean and orderly structure. It clearly separates the pet's profile (with a photo) from the pet's personal data and then, in a more compact format, the clinic's data. The buttons have also been significantly improved, using clear, action-oriented colors to guide the user and make the final action intuitive and error-free.
 
-[Colocar aca la foto del wireframe] -> [Colocar la foto del mockup]
-
-
+<img width="731" height="713" alt="ui-evolution-confirmation" src="https://github.com/user-attachments/assets/2a565775-6e75-4494-9e9b-5e6e22a6bf00" />
 
 ### 7.2. Results of the Heuristic Evaluation
 A heuristic evaluation was conducted on the high-fidelity PetVet prototype to identify key usability issues before the final design. The evaluation, performed by our design team, focused on critical user flows such as appointment booking. While several minor adjustments were made, the evaluation identified one major usability flaw in the 'Confirm Appointment' screen, which was prioritized and completely redesigned.
