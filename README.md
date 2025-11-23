@@ -148,6 +148,7 @@ The PetVet Customer Journey Map identifies the following key stages in the user'
 - **Decision:** Users decide to stick with PetVet and start booking veterinary appointments.
 
 - **Retention & Advocacy:** Users start saving their pets' information and recommend the app to friends and family.
+<img width="1412" height="763" alt="image" src="https://github.com/user-attachments/assets/938cfa88-8504-4a83-8c87-24356147b221" />
 
 #### 4.1.1 Decision Stage Interfaces
 In the Decision stage, the user has already chosen to use PetVet and focuses on the platform's core action: finding and booking an appointment. The primary focus is on the Veterinary Search feature to initiate the booking flow.
