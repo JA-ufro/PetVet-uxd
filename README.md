@@ -326,6 +326,7 @@ This annex serves as a central repository for all project deliverables, categori
 
 ### 7. Surface Documents
 
-   - 📄 [Hi-Fi Interfaces - PetVet](https://github.com/JA-ufro/PetVet-uxd/blob/8a50b8589161a5ee88cf1c915db0a47dab07d3d9/docs/hi-fi-interfaces-petvet.pdf)
-     > The final, polished high-fidelity mockups showing the complete visual system and UI components.
-
+   - 📄 [(Old)Hi-Fi Interfaces - PetVet](https://github.com/JA-ufro/PetVet-uxd/blob/8a50b8589161a5ee88cf1c915db0a47dab07d3d9/docs/hi-fi-interfaces-petvet.pdf)
+     
+ - 📄 [Hi-Fi Interfaces - PetVet](https://github.com/JA-ufro/PetVet-uxd/blob/efe0286f61148cb88223b3f68c15e7e76f6275fc/docs/new-hi-fi-interfaces-petvet.pdf)
+     > The final, polished high-fidelity mockups showing the complete visual system and UI components.  
