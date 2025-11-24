@@ -286,7 +286,7 @@ Below are the resources linked to the final high-fidelity interface designs:
 
 📁 [Hi-Fi Interfaces Workspace – PetVet (Figma)](https://www.figma.com/files/project/462075577](https://www.figma.com/design/mzMcZxr0kmMQ3DLNTULotQ/PetVet-Wireframe?node-id=474-3670&t=Q2nlBpqqklKsbEUi-1))
 
-📁 [Hi-Fi Prototype – PetVet (Figma)](https://www.figma.com/design/mzMcZxr0kmMQ3DLNTULotQ/PetVet-Wireframe?node-id=474-3670&t=Q2nlBpqqklKsbEUi-1)
+📁 [Hi-Fi Prototype – PetVet (Figma)](https://www.figma.com/proto/mzMcZxr0kmMQ3DLNTULotQ/PetVet-Wireframe?node-id=596-4242&t=n69SjwV6gEd8iNoP-1&scaling=min-zoom&content-scaling=fixed&page-id=596%3A786&starting-point-node-id=596%3A6798)
 
 📄 [Hi-Fi Interfaces – PetVet (PDF)](https://github.com/JA-ufro/PetVet-uxd/blob/d18b1496098f5d08d0cbc10a98307ddcdbd1ae24/docs/hi-fi-interfaces-petvet.pdf)
 
